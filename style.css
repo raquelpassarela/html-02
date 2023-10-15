@@ -1,0 +1,78 @@
+/* Estilos para o corpo (body) */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para a barra de navegação (nav) */
+nav {
+    background-color: #007ACC;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+/* Estilos para o cabeçalho (header) */
+header {
+    text-align: center;
+    margin: 2%;
+}
+
+/* Estilos para o <h1> no cabeçalho (header) */
+header h1 {
+    color: blue;
+    font-size: 32px;
+    margin: 10px 0;
+}
+
+
+/* Estilos para o conteúdo (conteudo) */
+#conteudo {
+    margin: 100px;
+}
+
+h2 {
+    color: #007ACC;
+}
+
+p {
+    font-size: 18px;
+}
+
+/* Estilos para imagens */
+img {
+    max-width: 500px;
+    height: auto;
+    display: block;
+    margin: 0 auto; 
+}
+
+
+/* Estilos para o rodapé (footer) */
+footer {
+    background-color: #007ACC;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+}
+
